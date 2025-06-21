@@ -1,0 +1,21 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.Python
+env/
+venv/
+ENV/
+.venv/
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
+# Test and coverage
+.coverage
+.tox/
+.pytest_cache/
+# Task data
+tasks.json
